@@ -3,6 +3,8 @@
 /local.properties
 /.idea
 
+app/fabric.properties
+
 .DS_Store
 /build
 /captures
