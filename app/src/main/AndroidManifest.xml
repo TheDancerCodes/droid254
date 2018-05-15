@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+        <!-- Add Crashlytics API Key -->
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="b99ca8b6757a75a646f3b5cbb72c17877b2c1aa4" />
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
