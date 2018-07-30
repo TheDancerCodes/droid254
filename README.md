@@ -2,6 +2,8 @@
 
 The Official Dance254 Android Application.
 
+[![CircleCI](https://circleci.com/bb/dance254/droid254.svg?style=svg)](https://circleci.com/bb/dance254/droid254)
+
 ## Project Setup
 
 This project is built with Gradle, the [Android Gradle plugin](http://tools.android.com/tech-docs/new-build-system/user-guide). Follow the steps below to setup the project localy.
