@@ -44,12 +44,12 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     // Crashlytics Kit
-    compile('com.crashlytics.sdk.android:crashlytics:2.9.2@aar') {
+    implementation('com.crashlytics.sdk.android:crashlytics:2.9.2@aar') {
         transitive = true;
     }
 
     // Answers Kit
-    compile('com.crashlytics.sdk.android:answers:1.4.1@aar') {
+    implementation('com.crashlytics.sdk.android:answers:1.4.1@aar') {
         transitive = true;
     }
 }
