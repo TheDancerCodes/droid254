@@ -31,15 +31,15 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()) {
-                    case R.id.action_recents:
-                        Toast.makeText(MainActivity.this, "Recents", Toast.LENGTH_SHORT).show();
+                    case R.id.action_news:
+                        Toast.makeText(MainActivity.this, "News", Toast.LENGTH_SHORT).show();
                         break;
-                    case R.id.action_favorites:
+                    case R.id.action_events:
                         Toast.makeText(MainActivity.this, "Favorites", Toast.LENGTH_SHORT).show();
                         break;
-                    case R.id.action_nearby:
-                        Toast.makeText(MainActivity.this, "Nearby", Toast.LENGTH_SHORT).show();
-                        break;
+//                    case R.id.action_nearby:
+//                        Toast.makeText(MainActivity.this, "Nearby", Toast.LENGTH_SHORT).show();
+//                        break;
                 }
                 return true;
             }
