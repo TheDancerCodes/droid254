@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_news"
+        android:enabled="true"
+        android:icon="@drawable/ic_news"
+        android:title="News"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_events"
+        android:enabled="true"
+        android:icon="@drawable/ic_event"
+        android:title="Events"
+        app:showAsAction="ifRoom" />
+    <!--<item-->
+        <!--android:id="@+id/action_nearby"-->
+        <!--android:enabled="true"-->
+        <!--android:icon="@drawable/ic_action_nearby"-->
+        <!--android:title="Nearby"-->
+        <!--app:showAsAction="ifRoom" />-->
+</menu>
