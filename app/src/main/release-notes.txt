@@ -1,3 +1,2 @@
-Release Notes v1.0
-- This is a test that Firebase App Distribution actually works.
-- Fingers crossed. 🤞🏾
+Release Notes v1.0.2
+- Proof of working Firebase App Distribution using Travis CI & Gradle.
