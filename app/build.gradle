@@ -40,7 +40,6 @@ android {
 
         debug {
             firebaseAppDistribution {
-                serviceCredentialsFile="./app/src/main/XXX-YYYY.json"
                 releaseNotesFile="./app/src/main/release-notes.txt"
                 groups="droid-testers"
             }
