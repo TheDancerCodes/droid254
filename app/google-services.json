@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "873829627809",
+    "firebase_url": "https://tawamboconsulting.firebaseio.com",
+    "project_id": "tawamboconsulting",
+    "storage_bucket": "tawamboconsulting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873829627809:android:cecd4cd9d70a61d5",
+        "android_client_info": {
+          "package_name": "com.tawabo.creative.tawamboconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873829627809-83bm05f5umah2omchl9skjf8oe6inr8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13zUnZtMmFwAP5FTL4jDn7DlKZDSS3XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873829627809-83bm05f5umah2omchl9skjf8oe6inr8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873829627809:android:db4f81e1fa14121c427de0",
+        "android_client_info": {
+          "package_name": "com.tawambo.creative.dance254"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873829627809-83bm05f5umah2omchl9skjf8oe6inr8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13zUnZtMmFwAP5FTL4jDn7DlKZDSS3XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873829627809-83bm05f5umah2omchl9skjf8oe6inr8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
