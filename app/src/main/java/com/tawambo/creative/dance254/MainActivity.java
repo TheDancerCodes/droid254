@@ -54,9 +54,6 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.action_events:
                         Toast.makeText(MainActivity.this, "Favorites", Toast.LENGTH_SHORT).show();
                         break;
-//                    case R.id.action_nearby:
-//                        Toast.makeText(MainActivity.this, "Nearby", Toast.LENGTH_SHORT).show();
-//                        break;
                 }
                 return true;
             }
