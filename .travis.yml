@@ -2,21 +2,21 @@
 language: android
 jdk: oraclejdk8
 
-before_cache:
-  - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
-  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
-  - rm -fr $HOME/.android/build-cache/
-
-cache:
-  directories:
-    - $HOME/.gradle/caches/
-    - $HOME/.gradle/wrapper/
-    - $HOME/.android/build-cache
+#before_cache:
+#  - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
+#  - rm -fr $HOME/.gradle/caches/*/plugin-resolution/
+#  - rm -fr $HOME/.android/build-cache/
+#
+#cache:
+#  directories:
+#    - $HOME/.gradle/caches/
+#    - $HOME/.gradle/wrapper/
+#    - $HOME/.android/build-cache
 
 env:
   global:
     # This is set because otherwise gradlew seems to use JDK 1.7
-    - JAVA_HOME=/usr/lib/jvm/java-8-oracle/
+    #- JAVA_HOME=/usr/lib/jvm/java-8-oracle/
     - ANDROID_API_LEVEL=25
     - ANDROID_BUILD_TOOLS_VERSION=25.0.0
 
