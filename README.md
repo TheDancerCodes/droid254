@@ -1,6 +1,6 @@
 # Droid254
 
-The Official Dance254 Android Application.
+An app to test out Firebase App Distribution implementation.
 
 [![CircleCI](https://circleci.com/bb/dance254/droid254.svg?style=svg)](https://circleci.com/bb/dance254/droid254)
 
